@@ -1,0 +1,13 @@
+{
+  "name": "github-pr-review",
+  "description": "Review GitHub PRs, including stacked sets, and post findings as inline comments. Cold parallel reviewers, a triage table you rule on, every fix proven on a scratch branch, then suggestions, code sketches and before/after screenshots posted to the PR.",
+  "version": "1.0.0",
+  "author": {
+    "name": "frontier159",
+    "url": "https://github.com/frontier159"
+  },
+  "homepage": "https://github.com/frontier159/github-pr-review",
+  "repository": "https://github.com/frontier159/github-pr-review",
+  "license": "MIT",
+  "keywords": ["pull-requests", "code-review", "github", "stacked-prs", "agents"]
+}

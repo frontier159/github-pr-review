@@ -1,0 +1,15 @@
+{
+  "name": "github-pr-review",
+  "owner": {
+    "name": "frontier159"
+  },
+  "metadata": {
+    "description": "Claude marketplace catalog for the github-pr-review plugin."
+  },
+  "plugins": [
+    {
+      "name": "github-pr-review",
+      "source": "./"
+    }
+  ]
+}
